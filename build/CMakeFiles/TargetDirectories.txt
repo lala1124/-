@@ -1,0 +1,3 @@
+/home/nano/文档/fire/build/CMakeFiles/rebuild_cache.dir
+/home/nano/文档/fire/build/CMakeFiles/fire.dir
+/home/nano/文档/fire/build/CMakeFiles/edit_cache.dir
